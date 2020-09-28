@@ -1,0 +1,9 @@
+Here the goodis that are selected for distribution are:
+            Goodies   Price
+0  Sandwich Toaster    2195
+1    Microwave Oven    9800
+2             Alexa    9999
+3    Digital Camera   11101
+4             IPods   22349
+5       Macbook Pro  229900
+And the difference between the chosen goodie with highest price and the lowest price is: 228901
